@@ -1,6 +1,3 @@
-// Compile with 
-// gcc --std=c99 -pthread -g producer_consumer.c -o producer_consumer
-
 #include <stdlib.h>
 #include <stdio.h>
 #include <pthread.h>
